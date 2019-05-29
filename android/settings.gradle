@@ -1,0 +1,3 @@
+rootProject.name = 'mevi_3982'
+
+include ':app'

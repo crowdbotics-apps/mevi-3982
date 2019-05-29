@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT mevi_3982.wsgi:application
